@@ -1,0 +1,1 @@
+This repository is for the Machine Learning Project I did for subject 31005 Machine Learning. The aim of the project is to implement the multiple linear regression algorithm from scratch without using any libraries. 
